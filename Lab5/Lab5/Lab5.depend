@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622640501 source:c:\users\fuatk\desktop\c kodlar\lab5g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619642836 source:c:\users\fuatk\desktop\c kodlar\glab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

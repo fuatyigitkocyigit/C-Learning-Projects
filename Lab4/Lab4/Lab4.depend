@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621709777 source:c:\users\fuatk\desktop\c kodlar\labg4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
